@@ -11,7 +11,6 @@ API_KEY = os.getenv("OPENWEATHER_API_KEY")
 DELHI_LAT = 28.6139
 DELHI_LON = 77.2090
 
-# Your personal asthma triggers
 USER_TRIGGERS = {
     "dust": True,
     "smoke": True,
